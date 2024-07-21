@@ -12,11 +12,12 @@
   "esmodules": [
     "p2c.js"
   ],
-  "url": "https://github.com/Yosoy-Ed/critic-messaged",
-  "manifest": "https://drive.google.com/file/d/1NyefAx4sPvmbhRNNkop6t4cMgBMmIvzL/view?usp=sharing",
-  "download": "https://drive.google.com/file/d/1Mv-spjLyWcYzuHLMrsrZMrVHSo180IqF/view?usp=sharing",
+  "url": "https://github.com/Yosoy-Ed/popoutimg-2-chat",
+  "manifest": "https://github.com/Yosoy-Ed/popoutimg-2-chat/releases/latest/download/module.json",
+  "download": "https://github.com/Yosoy-Ed/popoutimg-2-chat/releases/latest/download/module.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"
   }
 }
+
