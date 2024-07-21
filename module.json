@@ -1,0 +1,22 @@
+{
+  "id": "popoutimg-2-chat",
+  "title": "Popout Image to chat",
+  "description": "A module creating a button on image popout to send it to chat",
+  "authors": [
+    {
+      "name": "Yosoy-Ed",
+      "flags": {}
+    }
+  ],
+  "version": "0.1.0",
+  "esmodules": [
+    "p2c.js"
+  ],
+  "url": "https://github.com/Yosoy-Ed/critic-messaged",
+  "manifest": "https://drive.google.com/file/d/1NyefAx4sPvmbhRNNkop6t4cMgBMmIvzL/view?usp=sharing",
+  "download": "https://drive.google.com/file/d/1Mv-spjLyWcYzuHLMrsrZMrVHSo180IqF/view?usp=sharing",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  }
+}
